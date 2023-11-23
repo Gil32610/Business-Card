@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="my_full_name">Gil Araújo</string>
+    <string name="title">Business Card</string>
+    <string name="phone_number">+55 (81)98786-7935</string>
+    <string name="personal_email">gilaraujo417@gmail.com</string>
+    <string name="instagram_profile">\@gil.arauj</string>
+</resources>
